@@ -1,0 +1,36 @@
+
+div{
+width:28em;
+height:35em;
+background-image: linear-gradient(to bottom, #004bbd, #009df8, #13e400, #ffd900);
+text-align:center;
+margin-left: 2em;
+border-radius: 25px;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+}
+img{
+width:10em;
+height:12em;
+margin-left: 9em;
+border-radius: 40%;
+box-shadow: 0px 0px 0px 4px rgba(255, 255, 255, 0.6);
+}
+h1{
+color: rgb(255, 255, 255);
+}
+h2{
+color: white;
+}
+li{
+display:flex;
+justify-content:space-evenly;
+align-content:center;
+color: rgb(255, 255, 255);
+}
+footer{
+margin-bottom: 2em;
+display: flex;
+justify-content: space-evenly;
+}
